@@ -1,5 +1,5 @@
 Sub Data()
-
+ 
 Dim total As Double
 Dim i As Long
 Dim change As Single
